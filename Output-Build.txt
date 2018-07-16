@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: RestoranApp, Configuration: Debug Any CPU ------
+1>  RestoranApp -> C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\bin\Debug\RestoranApp.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
